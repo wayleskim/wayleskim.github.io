@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyunsoo Kim"
+title                    : "Cafe Wayles"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyunsoo Wayles Kim"
+  name             : "Hyunsoo \"Wayles\" Kim"
   avatar           : "profile.png"
   bio              : "김현수"
   location         : "Seoul, South Korea"
