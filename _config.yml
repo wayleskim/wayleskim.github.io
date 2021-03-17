@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyunsoo \"Wayles\" Kim"
+title                    : "Wayles Kim"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyunsoo \"Wayles\" Kim"
+  name             : "Hyunsoo Kim"
   avatar           : "profile.png"
-  bio              : "김현수"
+  bio              : "김 현 수 \(金 炫 秀\)"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
