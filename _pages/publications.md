@@ -15,12 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
 ## Conferences
 {%  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
