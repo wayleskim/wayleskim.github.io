@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conferences
-{%  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
+  1. Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning
       * Hao Chen, Miran Kim, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
       * ASIACRYPT 2020 [[ePrint]](https://eprint.iacr.org/2020/451)
   1. Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts
@@ -44,10 +44,10 @@ author_profile: true
       * NECSYS 2016 [[url]](https://www.sciencedirect.com/science/article/pii/S2405896316319796) [[pdf]](https://yongsoosong.github.io/files/papers/cps.pdf)
   1. A Group Action on ZpX and the Generalized DLP with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
-      * SAC 2013 [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)%}
+      * SAC 2013 [[url]](https://link.springer.com/chapter/10.1007/978-3-662-43414-7_6) [[pdf]](https://yongsoosong.github.io/files/papers/GDLPwAI.pdf)
 
 ## Journals
-{%  1. Semi-parallel logistic regression for GWAS on encrypted data
+  1. Semi-parallel logistic regression for GWAS on encrypted data
       * Miran Kim, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * BMC Medical Genomics 2020 [[url]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0724-z) [[ePrint]](https://eprint.iacr.org/2019/294)
   1. Ensemble Method for Privacy-Preserving Logistic Regression based on Homomorphic Encryption
@@ -67,15 +67,15 @@ author_profile: true
       * JMIR Medical Informatics 2018 [[url]](https://medinform.jmir.org/2018/2/e19/) [[ePrint]](https://eprint.iacr.org/2018/074)
   1. Secure Searching of Biomarkers Through Hybrid Homomorphic Encryption Scheme
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
-      * BMC Medical Genomics 2017 [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)%}
+      * BMC Medical Genomics 2017 [[url]](https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-017-0280-3) [[ePrint]](https://eprint.iacr.org/2017/294)
 
 ## Book and Book Chapters
-{%  1. The Discrete Logarithm Problem with Auxiliary Inputs
+  1. The Discrete Logarithm Problem with Auxiliary Inputs
       * Jung Hee Cheon, Taechan Kim, Yongsoo Song
-      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014 [[url]](https://www.degruyter.com/viewbooktoc/product/207742)%}
+      * Algebraic Curves and Finite Fields. Cryptography and Other Applications, Berlin, Boston: De Gruyter, 2014 [[url]](https://www.degruyter.com/viewbooktoc/product/207742)
 
-## Others (e.g., Manuscripts, Whitepapers, Technical Documents)
-{%  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
+## Manuscripts
+  1. Instant Privacy-Preserving Biometric Authentication for Hamming Distance
       * Joohee Lee, Dongwoo Kim, Duhyeong Kim, Yongsoo Song, Junbum Shin, Jung Hee Cheon (2018)
       * [[ePrint]](https://eprint.iacr.org/2018/1214)
   1. Convergence and Oscillation of Low-Precision Stochastic Gradient Descent
@@ -86,4 +86,4 @@ author_profile: true
   1. Batch Fully Homomorphic Encryption over the Integers Revisited
       * Jung Hee Cheon, Yongsoo Song (2016)
   1. Secure Sketch for Set Distance on Noisy Data
-      * Jung Hee Cheon, Yongsoo Song (2014)%}
+      * Jung Hee Cheon, Yongsoo Song (2014)
