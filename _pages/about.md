@@ -15,3 +15,11 @@ My general research interests are in Network Security and Privacy. Currently, I 
 Before pursuing my doctoral degree, I was a research engineer at [Gridwiz Inc](https://www.gridwiz.com/en/solutions/e-mobility), from 2017 to 2020. I designed and developed communication controllers installed in electric vehicles and charging stations based on de facto standards such as ISO 15118, DIN SPEC 70121, and OCPP. I also participated in numerous E-Mobility standardization activities, both international and domestic.
 
 I obtained my MS in Electronic Engieering at Sogang University in 2017, advised by [Professor Ju-Wook Jang](http://monet2.sogang.ac.kr/).
+
+### E-Mail
+
+hskim AT mmlab DOT snu DOT ac DOT kr
+
+### Office
+
+554-1 "Moore", 5F, 301 Bldg., Seoul National University
