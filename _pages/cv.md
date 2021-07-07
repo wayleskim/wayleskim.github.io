@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[Download PDF]](files/CV.pdf)
+[[Download PDF]](https://wayleskim.github.io/files/CV.pdf)
 
 Education
 ======
