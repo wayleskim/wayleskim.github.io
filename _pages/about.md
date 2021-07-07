@@ -9,5 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Wayles, 1st year Ph.D Student in Computer Science and Engineering at Seoul National University working with [Professor Taekyoung "Ted" Kwon](https://mmlab.snu.ac.kr/).
+
 My general research interests are in Network Security and Privacy. Currently, I am working on Decentralized Public Key Infrastructure (DPKI) and blockchain consensus algorithms/protocols.
+
 Before pursuing my doctoral degree, I was a research engineer at [Gridwiz Inc](https://www.gridwiz.com/en/solutions/e-mobility), from 2017 to 2020. I designed and developed communication controllers used in electric vehicles and charging stations based on de facto standards such as ISO 15118, DIN SPEC 70121, and OCPP. I also participated in numerous E-Mobility related standardization activities, both international and domestic. I obtained my MS in Electrical Engieering at Sogang University in 2017, advised by [Professor Ju-Wook Jang](http://monet2.sogang.ac.kr/).
