@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[Download CV]](files/CV.pdf)
+[[Download PDF]](files/CV.pdf)
 
 Education
 ======
