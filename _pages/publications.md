@@ -17,6 +17,6 @@ author_profile: true
       * [[url TBD]]
 
 ## Others (E.g., Manuscripts, Whitepapers, Technical Documents)
-  1. PKI Interoperability Whitepaper
-      * ElaadNL (2020)
-      * Available at [[TBD]]
+  1. Public Key Infrastructure for ISO 15118
+      * ElaadNL (2022)
+      * Available at [[https://elaad.nl/wp-content/uploads/downloads/PKI-for-ISO-15118-2022-pdf.pdf]]
